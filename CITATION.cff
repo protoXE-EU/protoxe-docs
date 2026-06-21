@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "protoXE: Differential Validation as a First-Class Architecture for Pre-Silicon and High-Assurance Verification"
+type: report
+authors:
+  - family-names: Corbetta
+    given-names: Claudio
+    email: claudio.corbetta@protoxe.com
+date-released: 2026-06-01
+url: "https://protoxe.com"
+repository-code: "https://github.com/protoXE-EU/protoxe-docs"
+license: CC-BY-4.0
+keywords:
+  - emulation
+  - ARM64
+  - RISC-V
+  - hypervisor
+  - pre-silicon verification
+  - differential testing
+  - Rust
+  - deterministic replay
+  - high-assurance systems
+abstract: >
+  protoXE is a sovereign, deterministic full-system emulator for ARM64 and
+  RISC-V, built in Rust with zero runtime heap allocations, designed for
+  pre-silicon and high-assurance verification. This white paper describes
+  its architecture, three-tier differential validation methodology (real
+  silicon, an authoritative external reference, and a fast in-house
+  oracle), and reports empirical validation results including over
+  650,000 instructions cross-validated against QEMU with zero
+  divergences and four real implementation defects found and corrected
+  through the methodology.
