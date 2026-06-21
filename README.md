@@ -10,9 +10,9 @@ Public technical documentation, white papers, and research notes for **protoXE**
 
 - [`whitepaper.md`](./whitepaper.md) — protoXE's architecture, validation methodology, and empirical results
 - Defensive publications (prior art, CC0, hosted on Zenodo):
-  - Lock-Step ISS-vs-DUT Verification with Automated Test-Case Minimisation — DOI: *[insert]*
-  - Pure-Software RTL Co-Simulation via Verilated Peripheral Substitution — DOI: *[insert]*
-  - Zero-Allocation Deterministic Snapshot/Restore Enabling Reverse Debugging — DOI: *[insert]*
+  - Lock-Step ISS-vs-DUT Verification with Automated Test-Case Minimisation — DOI: 10.5281/zenodo.20678504
+  - Pure-Software RTL Co-Simulation via Verilated Peripheral Substitution — DOI: 10.5281/zenodo.20678643
+  - Zero-Allocation Deterministic Snapshot/Restore Enabling Reverse Debugging — DOI: 10.5281/zenodo.20678682
 
 ## About protoXE
 
