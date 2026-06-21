@@ -136,7 +136,7 @@ protoXE is currently selecting a limited cohort of Design Partners — teams wit
 
 ## References
 
-1. Corbetta, C. (2026). *Lock-Step ISS-vs-DUT Verification with Automated Test-Case Minimisation.* Defensive publication, Zenodo. DOI: 0.5281/zenodo.20678504
+1. Corbetta, C. (2026). *Lock-Step ISS-vs-DUT Verification with Automated Test-Case Minimisation.* Defensive publication, Zenodo. DOI: 10.5281/zenodo.20678504
 2. Corbetta, C. (2026). *Pure-Software RTL Co-Simulation via Verilated Peripheral Substitution in a Zero-Allocation SoC Model.* Defensive publication, Zenodo. DOI: 10.5281/zenodo.20678643
 3. Corbetta, C. (2026). *Zero-Allocation Deterministic Snapshot/Restore Enabling Reverse Debugging in a Compile-Time-Topology Emulator.* Defensive publication, Zenodo. DOI: 10.5281/zenodo.20678682
 4. Zeller, A. & Hildebrandt, R. (2002). Simplifying and Isolating Failure-Inducing Input. *IEEE Transactions on Software Engineering*, 28(2), 183–200.
